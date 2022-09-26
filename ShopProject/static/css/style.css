@@ -1,0 +1,44 @@
+/* HOME PAGE DESIGN */
+h6{
+  color:green;
+  font-size: 25px;
+}
+
+h1{
+  color:darkgreen;
+  text-shadow:4px 4px 4px white ;
+  font: bold 30px amita;
+}
+
+h2{
+  font: bold 30px;
+}
+
+h3{
+  text-shadow:4px 4px 4px white ;
+  font:bold 40px amita;
+  color: darkred;
+}
+
+h4{
+  color:black;
+  font:bold 28px amita;
+}
+
+.deco{
+  color: white;
+  cursor: pointer;
+ 
+}
+
+.btn{
+  color: black;
+}
+
+.btn :hover{
+  color:green;
+}
+
+.pic{
+  cursor: pointer;
+}
